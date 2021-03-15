@@ -12,4 +12,5 @@ Select a guide from the list below.
 | **Receiver manuals** |  |
 | [SensorGnome Guide](https://motus.gitbook.io/sensorgnome/) | [![](.gitbook/assets/sensorgnome_1.jpg) ](https://motus.gitbook.io/sensorgnome/) |
 | [CTT SensorStation Installation](https://store.celltracktech.com/pages/installation-guides) | [![](.gitbook/assets/ctt_sq.png) ](https://store.celltracktech.com/pages/installation-guides) |
-| [Lotek SRX-800 User Manual \(unofficial\)](https://store.celltracktech.com/pages/installation-guides) | [![](.gitbook/assets/Lotek_sq.png) ](https://store.celltracktech.com/pages/installation-guides) |
+| [Lotek SRX-800 User Manual \(unofficial\)](https://fccid.io/FW9SRX800/User-Manual/User-Manual-2328127) | [![](.gitbook/assets/Lotek_sq.png) ](https://store.celltracktech.com/pages/installation-guides) |
+
