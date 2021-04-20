@@ -1,17 +1,46 @@
 # Motus Guides
 
-Select a guide from the list below.
+<table style='border-width:0px;'>
+<thead>
+<th style='text-align:center;border-width:0px;'><a href='/stationguide'>Motus Station Guide</a></th>
+<th style='text-align:center;border-width:0px;'><a href='/tagguide'>Motus Tag Guide</a></th>
+<th style='text-align:center;border-width:0px;'><a href='motus.org/MotusRBook'>Motus Data Analysis</a></th>
+</thead>
+<tbody>
+<tr>
+<td style='text-align:center;border-width:0px;'><a href='/stationguide'><img src='.gitbook/assets/motus_station.jpg' alt='' /></a></td>
+<td style='text-align:center;border-width:0px;'><a href='/tagguide'><img src='.gitbook/assets/tags.jpg' alt='' /></a></td>
+<td style='text-align:center;border-width:0px;'><a href='motus.org/MotusRBook'><img src='.gitbook/assets/data_analysis.jpg' alt='' /></a></td>
+</tr>
+</tbody>
+</table>
 
-| General |  |
-| :--- | :---: |
-| [**Motus Station Guide**](https://docs.motus.org/stationguide/) | [![](.gitbook/assets/motus_station.jpg) ](https://docs.motus.org/stationguide/) |
-| **[Data Analysis](https://motus.org/MotusRBook/)** | [![](.gitbook/assets/data_analysis.jpg) ](https://motus.org/MotusRBook/) |
-| [**Equipment Selection**](https://motus.org/selection-guide) | [![](.gitbook/assets/selection_guide.png) ](https://motus.org/selection-guide) |
-| [**\[DRAFT\] Motus Tag Guide**](https://docs.motus.org/tagguide) | [![](.gitbook/assets/tags.jpg) ](https://docs.motus.org/tagguide) |
-| [**Troubleshooting**](https://motus.org/troubleshooting-guide/) | [![](.gitbook/assets/troubleshooting.jpg) ](https://motus.org/troubleshooting-guide/) |
 
-| **Receiver manuals** |  |
-| :--- | :---: |
-| [**SensorGnome Guide**](https://motus.gitbook.io/sensorgnome/) | [![](.gitbook/assets/sensorgnome.jpg) ](https://motus.gitbook.io/sensorgnome/) |
-| [**CTT SensorStation Installation**](https://store.celltracktech.com/pages/installation-guides) | [![](.gitbook/assets/ctt_sq.png) ](https://store.celltracktech.com/pages/installation-guides) |
-| [**Lotek SRX-800 User Manual \(unofficial\)**](https://store.celltracktech.com/pages/installation-guides) | [![](.gitbook/assets/Lotek_sq.png) ](https://store.celltracktech.com/pages/installation-guides) |
+<table>
+<thead>
+<th style='text-align:center;border-width:0px;'><a href='motus.org/selection-guide'>Equipment selection</a></th>
+<th style='text-align:center;border-width:0px;'><a href='motus.org/troubleshooting-guide'>Troubleshooting</a></th>
+</thead>
+<tbody>
+<tr>
+<td style='text-align:center;border-width:0px;'><a href='motus.org/selection-guide'><img src='.gitbook/assets/selection_guide.png' alt='' /></a></td>
+<td style='text-align:center;border-width:0px;'><a href='motus.org/troubleshooting-guide'><img src='.gitbook/assets/troubleshooting.jpg' alt='' /></a></td>
+</tr>
+</tbody>
+</table>
+
+# Receiver manuals
+<table style='border-width:0px;'>
+<thead>
+<th style='text-align:center;border-width:0px;'><a href='/sensorgnome'>SensorGnome User Guide</a></th>
+<th style='text-align:center;border-width:0px;'><a href='https://store.celltracktech.com/pages/installation-guides'>SensorStation Installation</a></th>
+<th style='text-align:center;border-width:0px;'><a href='https://fccid.io/FW9SRX800/User-Manual/User-Manual-2328127'>Lotek SRX-800 User Manual (unofficial)</a></th>
+</thead>
+<tbody>
+<tr>
+<td style='text-align:center;border-width:0px;'><a href='/sensorgnome'><img src='.gitbook/assets/sensorgnome.jpg' alt='' /></a></td>
+<td style='text-align:center;border-width:0px;'><a href='https://store.celltracktech.com/pages/installation-guides'><img src='.gitbook/assets/ctt_sq.png' alt='' /></a></td>
+<td style='text-align:center;border-width:0px;'><a href='https://fccid.io/FW9SRX800/User-Manual/User-Manual-2328127'><img src='.gitbook/assets/Lotek_sq.png' alt='' /></a></td>
+</tr>
+</tbody>
+</table>
